@@ -1,6 +1,6 @@
 # [Linux Survival Guide](title)
 ---
-## [Table of Contents](contents)
+## Table of Contents
 - [The Desktop](#the-desktop)
 - [File Browser](#file-browser)
 - [System Update](#system-update)
