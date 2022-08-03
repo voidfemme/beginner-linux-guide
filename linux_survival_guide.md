@@ -30,7 +30,7 @@ similar to the menu on Windows. From left to right:
 - Terminal Emulator
 - File browser
 
-### [The Launch Menu](launch-menu)
+## [The Launch Menu](launch-menu)
 The Launch Menu can be opened by clicking the Linux Mint logo in the bottom left
 side of the screen. You can find all of your installed apps, as well as any
 preferences you might want to check out. There is so much in there, so have a
@@ -93,8 +93,8 @@ involving "sudo" until you are more comfortable with linux.
 **Keep in mind, that you will need to use the terminal at some point. Don't be
 afraid of it! Just respect the power that the command line gives you.**
 
-## [File Structure and Permissions](file-structure-and-permissions)
-### [File Structure](file-structure)
+## [File Structure and Permissions](file-structure)
+### [File Structure]
 Understanding your file structure is important, because it will let you know
 where you can place your files, and where you may not. When you are logged in,
 you have permission to modify every file in your home directory. A directory is
@@ -113,7 +113,7 @@ directory. In it you will find these files:
 now, just know that all the files besides your home directory (/home/[your username]) are
 off-limits.
 
-### [Permissions](permissions)
+## [A Note on Permissions](permissions)
 
 "Permissions" refer to _which owner_ is allowed to perform _which actions_. There are
 three important actions:
